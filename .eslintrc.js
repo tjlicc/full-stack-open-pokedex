@@ -4,7 +4,6 @@ module.exports = {
     "browser": true,
     "es6": true,
     "jest/globals": true,
-    "e2e": true,
   },
   "extends": [
     "eslint:recommended",
